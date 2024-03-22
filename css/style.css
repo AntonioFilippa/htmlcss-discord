@@ -48,7 +48,7 @@ padding: 1%;
     background-color: gold;
 }
 .bg-darkgrey{
-    background-color: darkgrey;
+    background-color: rgb(35, 37, 54);
 }
 
 
@@ -243,7 +243,11 @@ margin:0px auto;
 .plsblu{
     background-color: rgba(105, 117, 185, 0.966);
     border-radius: 40px;
-    padding: 20px 50px;
-    width: 20px;
+    width: 20%;
+    margin-left: 350px;
+    margin-top: 20px;
+}
 
+.fontblu{
+    color: rgba(105, 117, 185, 0.966);
 }
