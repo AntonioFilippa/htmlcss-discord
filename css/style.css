@@ -6,15 +6,16 @@
 /* utility */
 
 header{
-background-color: lightskyblue;
+background-color: #3161e0;
 padding: 1%;
 
-
+}
+.bg-white{
+    background-color: white;
 
 }
-.bg-grey{
-    background-color: grey;
-}
+
+
 .bg-pink{
     background-color: hotpink;
 }
@@ -60,7 +61,7 @@ margin: 30px auto;
 
 .container-sm {
 
-max-width: 1200px;
+max-width: 990px;
 margin:0px auto;
 
 }
@@ -113,6 +114,9 @@ margin:0px auto;
 }
 .pdtop{padding-top: 30px;}
 
+.pd-button{
+    padding: 10px;
+}
 .col-60{
     width: 60%;
     height:400px
@@ -133,4 +137,113 @@ margin:0px auto;
 }
 .pdtop10{
     padding-top: 10px;
+}
+.gp-header{
+    gap: 70px;
+}
+.bg-none{
+    background: none;
+}
+.sp-evenly{
+    justify-content: space-evenly;
+}
+.brd-header{
+    border: none;
+}
+.clr-white{
+    color: white;
+}
+.align-cntr{
+    align-items: center;
+}
+.gap{
+    gap: 50px;
+}
+.spc-between{
+    justify-content: space-between;
+}
+
+.pls-white{
+    color: #23272a;
+    background-color: #fff;
+    border-radius: 40px;
+    padding: 7px 16px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "Inconsolata";
+}
+.bg-img-2{
+    background-image:url(../img/jumbo.png) ;
+    background-size: cover;
+  
+
+
+}
+.font-p{
+    font-family: "Inconsolata";
+}
+.titolone{
+    font-size: 40px;
+    padding-top: 50px;
+    
+}
+.titolone2{
+    font-size: 40px;
+    padding-top: 40px;
+    line-height: 60px;
+    
+}
+.container-sm2{
+    max-width: 700px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.lheight20{
+    line-height: 30px;
+}
+.sottotitolo{
+    font-size: 14px;
+
+    
+}
+.whitebuttn{
+    background-color: white;
+    border-radius: 40px;
+    padding: 20px 50px;
+
+}
+.blckbuttn{
+    background-color: black;
+    border-radius: 40px;
+    padding: 20px 50px;
+
+}
+.pd-40{
+    padding: 40px;
+}
+.containerpiccolo{
+    max-width: 400px;
+    padding-left: 100px;
+}
+.margin3{
+    margin-top: 200px;
+}
+.vertical-align{
+    vertical-align: middle;
+}
+
+.bg-3{
+    background-color: lightgrey;
+  
+}
+.pd-100top{
+    padding-top: 100px;
+}
+.plsblu{
+    background-color: rgba(105, 117, 185, 0.966);
+    border-radius: 40px;
+    padding: 20px 50px;
+    width: 20px;
+
 }
